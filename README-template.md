@@ -6,7 +6,9 @@
 ## 硬件要求
 >[写明硬件环境]
 ## 代码目录结构说明
-
+<div style='display: none'>
+>[下面一段可以删去]
+</div>
 <div style='display: none'>
 windows生成目录结构树方法（tree）
 1. 进入需要生成目录树的文件夹，把地址栏改成cmd，就会直接进入DOS界面，并且已经在当前目录。
